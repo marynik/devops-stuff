@@ -1,0 +1,4 @@
+name: chat-devops-steps
+image: mattermost/mattermost-team-edition
+size: 100users
+version: 10.4.2
